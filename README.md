@@ -13,7 +13,7 @@
 
 ## Getting Started
 
-Genymotion will be used to set up the Android VM. Sign up for an account [here](https://www.genymotion.com/account/create/). You can input fake information for the account if you'd like, it isn't validated. You can also install Genymotion [here](https://www.genymotion.com/download/)
+Genymotion will be used to set up the Android VM. Sign up for an account [here](https://www.genymotion.com/account/create/). For account creation, if you don't want to use your real information, you can use temp-mail.org for email verification. You can also install Genymotion [here](https://www.genymotion.com/download/)
 
 After installing Genymotion & signing in, you will be greeted with a screen like this, except yours will have no devices listed:
 
